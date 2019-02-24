@@ -1,3 +1,4 @@
+alert('on github');
 let userScore = 0;
 let computerScore = 0;
 const USERSCORE_SPAN = document.getElementById('user-score');
